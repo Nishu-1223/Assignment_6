@@ -1,1 +1,1 @@
-Made Calculator using Tkinter
+Made Calculator using Tkinter with error handling.
